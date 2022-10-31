@@ -41,10 +41,12 @@
   margin: 0;
   padding: 0px;
 }
-.tasks__item, .subtitle {
+.tasks__item,
+.subtitle {
   list-style: none;
 }
-.input, .btn{
+.input,
+.btn{
   outline: none;
 }
 .btn {
@@ -70,7 +72,8 @@
   margin: 0;
   text-transform: uppercase;
 }
-.tasks__item__input_text, .new-task__text {
+.tasks__item__input_text,
+.new-task__text {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
