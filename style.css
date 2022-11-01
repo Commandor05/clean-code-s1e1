@@ -154,7 +154,7 @@
 }
 
 /* Completed */
-.tasks-completed .tasks__item__input_title {
+.tasks_completed .tasks__item__input_title {
   text-decoration: line-through;
   color: #888;
 }
